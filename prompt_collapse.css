@@ -1,0 +1,24 @@
+.prompt-collapsed {
+    height: 40px !important;
+    overflow: hidden;
+    transition: height 0.3s ease-out;
+}
+
+.prompt-button {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    background-color: var(--accent-color);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.clamp-button {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.clamp-button:hover {
+    opacity: 0.8;
+}
