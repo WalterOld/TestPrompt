@@ -1,0 +1,20 @@
+.prompt-collapse-button {
+        cursor: pointer;
+        margin-right: 5px;
+}
+
+.collapsed-prompt {
+        display: none !important;
+}
+
+.collapsed-prompt-button
+{
+        display: flex;
+        height: 25px;
+        width: 25px;
+        border: 1px solid #606060;
+        border-radius: 10px;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+}
