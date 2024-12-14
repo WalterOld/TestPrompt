@@ -1,11 +1,11 @@
 {
     "display_name": "Prompt Collapse",
-    "loading_order": 10,
+    "loading_order": 9,
     "requires": [],
     "optional": [],
-    "js": "prompt-collapse.js",
-    "css": "prompt-collapse.css",
-    "author": "Gemini-chan & Kim",
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Gemini-chan~",
     "version": "1.0.0",
     "homePage": "https://github.com/your-repo-here/prompt-collapse"
 }
