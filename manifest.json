@@ -1,0 +1,11 @@
+{
+    "display_name": "Prompt Collapse",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Ken",
+    "version": "0.1.0",
+        "homePage": ""
+}
